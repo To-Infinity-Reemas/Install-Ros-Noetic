@@ -17,4 +17,8 @@ step4 : is to assign the size of the virtual hard disk. You can safely work with
 ![‏‏لقطة الشاشة (239)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/dedfb10e-d77d-43ad-9de0-817f3a7592ae)
 
 step5 : install ubuntu mate and run 
-from sittings than system choose your iso ubuntu then finish so you can run it 
+from sittings than system choose your iso ubuntu then finish so you can run it
+
+![‏‏لقطة الشاشة (233)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/0be5401a-645c-429a-ba15-514aae67ae7d)
+
+as you see here in preview the ubuntu mate 
