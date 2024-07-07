@@ -32,3 +32,5 @@ In the next window keep every things as default and press continue:
  the next window, select 'Erase disk and install Ubuntu' ( nothing will Erased) then install now :
 ![‏‏لقطة الشاشة (241)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/0000117f-f932-4ad9-a407-7964942fc1b6)
 step 8:  Then Enter your Information (You have to remember the password, it is important), then press continue and it will start installing (it will take a time):
+
+![info](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/4a9882e2-0e72-4221-9a81-16d723b368f9)
