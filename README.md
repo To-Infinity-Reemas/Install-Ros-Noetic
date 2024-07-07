@@ -13,13 +13,20 @@ step 3: open virtual box and choose the name of "virtual machine name  and  Oper
 make sure you  Select 'Linux' and 'Ubuntu 64-bit', as shown in the figure.
 
 
-step4 : is to assign the size of the virtual hard disk. You can safely work with 20 GB size for hard disk. There are two options for creating a virtual hard disk. i choose to split the disk into multiple files. The advantage of splitting is if you want to copy the hard disk file to another computer, you can easily copy the files. 
+step 4: is to assign the size of the virtual hard disk. You can safely work with 20 GB size for hard disk. There are two options for creating a virtual hard disk. i choose to split the disk into multiple files. The advantage of splitting is if you want to copy the hard disk file to another computer, you can easily copy the files. 
 ![‏‏لقطة الشاشة (239)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/dedfb10e-d77d-43ad-9de0-817f3a7592ae)
 
-step5 : install ubuntu mate and run 
+step 5: install ubuntu mate and run 
 from sittings than system choose your iso ubuntu then finish so you can run it
 ![‏‏لقطة الشاشة (233)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/0be5401a-645c-429a-ba15-514aae67ae7d)
 
 as you see here in preview the ubuntu mate 
 ![‏‏لقطة الشاشة (237)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/db2b2ae5-00ad-45bb-aeb1-8d1fabbb443a)
-Select the language 'English' then press 'install ubuntu':
+step 6:Select the language 'English' then press 'install ubuntu':
+![‏‏لقطة الشاشة (240)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/aba9e40c-ce02-4bfc-8115-384e8e12a3af)
+step 7:  Keyboard Layout ( it is better to not change it , let it stay english as default). then click continue:
+
+
+In the next window keep every things as default and press continue:
+
+ the next window, select 'Erase disk and install Ubuntu' ( nothing will Erased) then install now :
