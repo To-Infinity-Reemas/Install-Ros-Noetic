@@ -23,16 +23,24 @@ from sittings than system choose your iso ubuntu then finish so you can run it
 as you see here in preview the ubuntu mate 
 ![‏‏لقطة الشاشة (237)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/db2b2ae5-00ad-45bb-aeb1-8d1fabbb443a)
 step 6:Select the language 'English' then press 'install ubuntu':
+
 <img width="870" alt="1" src="https://github.com/user-attachments/assets/69047fe1-7057-4bc2-855d-e9ccc24c3e2f">
 
 
 step 7:  Keyboard Layout ( it is better to not change it , let it stay english as default). then click continue:
-![‏‏لقطة الشاشة (241)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/0000117f-f932-4ad9-a407-7964942fc1b6)
+
+<img width="925" alt="2" src="https://github.com/user-attachments/assets/00b624a7-355d-4aae-98ad-2160524687a2">
 
 In the next window keep every things as default and press continue:
 
+<img width="922" alt="3" src="https://github.com/user-attachments/assets/1a9cc02e-60a3-4798-8d61-50fc598c945d">
+
  the next window, select 'Erase disk and install Ubuntu' ( nothing will Erased) then install now :
-![‏‏لقطة الشاشة (241)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/0000117f-f932-4ad9-a407-7964942fc1b6)
+
+ <img width="917" alt="4" src="https://github.com/user-attachments/assets/6ef7ebdc-83cc-4af3-b5c9-40521b31ac37">
+
 step 8:  Then Enter your Information (You have to remember the password, it is important), then press continue and it will start installing (it will take a time):
 
-![info](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/4a9882e2-0e72-4221-9a81-16d723b368f9)
+<img width="913" alt="5" src="https://github.com/user-attachments/assets/5241a00d-cca4-4eda-9792-3aeb4ee2dc86">
+
+
