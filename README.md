@@ -23,7 +23,8 @@ from sittings than system choose your iso ubuntu then finish so you can run it
 as you see here in preview the ubuntu mate 
 ![‏‏لقطة الشاشة (237)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/db2b2ae5-00ad-45bb-aeb1-8d1fabbb443a)
 step 6:Select the language 'English' then press 'install ubuntu':
-![‏‏لقطة الشاشة (240)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/aba9e40c-ce02-4bfc-8115-384e8e12a3af)
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/ae61f53a-0761-41f3-9cab-b56722b2ebc7">
+
 step 7:  Keyboard Layout ( it is better to not change it , let it stay english as default). then click continue:
 ![‏‏لقطة الشاشة (241)](https://github.com/To-Infinity-Reemas/Install-Ros-Noetic/assets/174404991/0000117f-f932-4ad9-a407-7964942fc1b6)
 
