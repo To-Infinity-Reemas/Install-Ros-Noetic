@@ -42,4 +42,18 @@ step 8:  Then Enter your Information (You have to remember the password, it is i
 
 <img width="913" alt="5" src="https://github.com/user-attachments/assets/5241a00d-cca4-4eda-9792-3aeb4ee2dc86">
 
+step 9: click restsrt and wait until it run 
+
+![6](https://github.com/user-attachments/assets/b36f0d07-9ae1-4b6e-b5d6-30062fac4309)
+
+## final step
+now ubuntu is redy to run ! 
+
+## to install ROS Noetic follwo this steps here 
+
+https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1
+
+for more info see this video on youtub https://youtu.be/tcjeLRoWQ6Q?si=NQ2BRDWvUwsffa20
+
+
 
